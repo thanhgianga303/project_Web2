@@ -1,0 +1,7 @@
+/*tr:hover {
+  background-color: #58b252!important;
+  color:#58b252;	
+}*/
+.csshover td:hover{
+  color:#58b252;	
+}
